@@ -1,4 +1,13 @@
 
-a = 10
-b = 50
-print(a+b)
+a =int("enter the first number")
+b = int("enter the second number")
+sum = a+b
+print"sum",sum
+
+
+
+
+a =int("enter the first number")
+b = int("enter the second number")
+sum = a+b
+
